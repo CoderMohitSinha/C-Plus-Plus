@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-int main(){
+
+int main()
+{
 	int n,k;
 	cout<<"Enter size of array=\t";
 	cin>>n;
