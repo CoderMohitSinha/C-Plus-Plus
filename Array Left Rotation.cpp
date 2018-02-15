@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//left rot
 int main()
 {
 	int n,k;
